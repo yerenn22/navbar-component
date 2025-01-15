@@ -11,7 +11,7 @@ export const Navbar = () => {
   };
 
   return (
-    <header className="mt-4 flex justify-center">
+    <header className="mt-4 xl:mt-0 flex justify-center">
       <nav
         className="flex w-full max-w-[1280px] items-center justify-between px-4 py-[18px] md:px-8 xl:justify-start xl:gap-[96px]"
         aria-label="Main Navigation"
